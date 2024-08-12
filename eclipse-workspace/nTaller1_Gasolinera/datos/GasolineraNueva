@@ -1,0 +1,13 @@
+tipo:Corriente:15000:40.0
+tipo:Regular :17000:49.0
+tipo:Media:20000:40.0
+tipo:Premium:25000:20.0
+surtidor:Sofía:Corriente:0.0:Regular :0.0:Media:0.0:Premium:0.0
+surtidor:Lucas:Corriente:0.0:Regular :0.0:Media:0.0:Premium:0.0
+surtidor:Sofía:Corriente:0.0:Regular :0.0:Media:0.0:Premium:0.0
+surtidor:Emma:Corriente:0.0:Regular :0.0:Media:0.0:Premium:0.0
+empleado:Lucas:0
+empleado:Juan Andres:0
+empleado:Sofía:0
+empleado:Manuel:0
+empleado:Emma:0

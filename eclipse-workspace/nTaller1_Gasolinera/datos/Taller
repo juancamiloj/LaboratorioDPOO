@@ -1,0 +1,13 @@
+tipo:Extra:20000:60.0
+tipo:Regular:15000:40.0
+tipo:Media:17000:40.0
+tipo:Premium:25000:20.0
+surtidor:Maria:Extra:0.0:Regular:0.0:Media:0.0:Premium:0.0
+surtidor:Alejandro:Extra:0.0:Regular:0.0:Media:0.0:Premium:0.0
+surtidor:Nicolas:Extra:0.0:Regular:0.0:Media:0.0:Premium:0.0
+surtidor:Lucas:Extra:0.0:Regular:0.0:Media:0.0:Premium:0.0
+empleado:Alejandro:0
+empleado:Lucas:0
+empleado:Juan:0
+empleado:Maria:0
+empleado:Nicolas:0
